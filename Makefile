@@ -78,6 +78,6 @@ re: kill
 	make
 
 play: $(NAME)
-	./$(NAME)
+	./$(NAME) tests/map.cub
 
 .PHONY: all clean fclean kill re play
