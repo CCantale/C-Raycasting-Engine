@@ -77,4 +77,7 @@ kill: clean fclean
 re: kill
 	make
 
+play: $(NAME)
+	./$(NAME)
+
 .PHONY: all clean fclean kill re play
