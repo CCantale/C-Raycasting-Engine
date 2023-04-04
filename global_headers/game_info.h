@@ -13,7 +13,7 @@
 #ifndef GAME_INFO_H
 # define GAME_INFO_H
 
-# define GAME_NAME		"Cub3D"
+# define GAME_NAME		"Game Name Here"
 //# define WINDOW_WIDTH	1920
 //# define WINDOW_HEIGHT	1080
 # define WINDOW_WIDTH	800
