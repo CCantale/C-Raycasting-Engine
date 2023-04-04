@@ -13,7 +13,7 @@
 CC			=		gcc
 FLAGS		=		-Wall -Wextra -Werror -g
 
-NAME		=		cub3D
+NAME		=		demo
 
 SRC			=		main.c \
 					error/error_msg.c error/error_null.c \
@@ -76,8 +76,5 @@ kill: clean fclean
 
 re: kill
 	make
-
-play: $(MINI) $(NAME)
-	./cub3D tests/map.cub
 
 .PHONY: all clean fclean kill re play
