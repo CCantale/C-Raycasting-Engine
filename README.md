@@ -8,5 +8,4 @@ It reads instructions from a file and then creates a 3D environment using raycas
 Work in progress...
 
 ## Demo
-On MacOS, open the project folder and run 'make' to compile a demo. Then, run './demo tests/map.cub' to execute it.
-Or just run 'make play' to compile and execute automatically.
+On MacOS, open the project folder and run 'make play' to compile and execute automatically.
