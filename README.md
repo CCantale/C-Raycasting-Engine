@@ -1,6 +1,7 @@
 # C Raycasting Engine
 
-Simple engine to make games à la Wolfenstein3D. Have fun!
+The project that gave birth to Ray. Made in C, using MinilibX as graphics API.
+It reads instructions from a file and then creates a 3D environment using raycasting algorithms.
 
 ## Guide
 
